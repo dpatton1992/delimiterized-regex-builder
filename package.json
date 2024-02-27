@@ -1,6 +1,6 @@
 {
   "name": "@dpatt/delimiterized-regex-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a regex from an array of strings to match all of the strings in order, separated by a delimiter.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
