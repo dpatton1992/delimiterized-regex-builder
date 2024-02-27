@@ -1,0 +1,19 @@
+{
+  "name": "@dpatton1992/delimiterized-regex-builder",
+  "version": "1.0.0",
+  "description": "Generate a regex from an array of strings to match all of the strings in order, separated by a delimiter.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "regex-builder",
+    "delimiter",
+    "whitespace"
+  ],
+  "author": "dpatton1992",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
